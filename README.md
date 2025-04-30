@@ -1,5 +1,5 @@
-# Step to load this extension
+### Step to load this extension
 
-## download this repo
+- Download this repo
 
-## follow this https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+- follow this https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
