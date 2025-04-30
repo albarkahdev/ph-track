@@ -8,6 +8,6 @@
 
 - Open your ph-track page
 - Wait until the page loaded
-- Click the extention icon
+- Click the extension icon
 - Wait until swipe detail modal show
 - Now click Calculate button
